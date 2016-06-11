@@ -84,6 +84,9 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+.logo-light img {
+	width: 50px;
+}
 .list-unstyled li {
 	padding: 5px 0;
 }
@@ -509,7 +512,7 @@ textarea {
 	.header.navbar-fixed-top {
 		position: fixed;
 		margin-bottom: 0px;
-		background-color: rgba(0, 0, 0, 0.5);
+		background-color: rgba(0, 0, 0, 0.8);
 		border-bottom: 1px solid #55acee;
 	}
 	#logo{
