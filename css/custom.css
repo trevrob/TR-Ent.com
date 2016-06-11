@@ -8,7 +8,12 @@
 .img-responsive{
 	margin-left: auto;
     margin-right: auto;
-    
+}
+.client-list{
+	margin-bottom: 50px;
+}
+.client-logo {
+	max-height: 75px;
 }
 /*---------------------------------------------------- 	Contact------------------------------------------------------*/
 
@@ -35,7 +40,7 @@ form input[type=submit]{
 	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: rgba(0, 0, 0, 0.85);
+	background-color: rgba(0, 0, 0, 0.95);
 	color: white;
 	font-size: 20px;
 }
@@ -50,8 +55,7 @@ form input[type=submit]:hover{
 	    width: 85%;
 	}
 	form input[type=submit]{
-	width: 70%;
-
-	font-size: 16px;
-}
+		width: 70%;
+		font-size: 16px;
+	}
 }
